@@ -20,3 +20,4 @@ For anyone curious about the original LinkedIn Roast Generator backend code, you
 # Disclaimer
 This project is purely for entertainment purposes. It respects user privacy by only using public GitHub data, and no sensitive information is accessed or stored.
 
+Enjoy getting roasted—and remember, it’s all in good fun!
